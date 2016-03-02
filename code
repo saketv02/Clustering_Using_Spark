@@ -1,0 +1,18 @@
+val users = sc.textFile("/home/cloudera/InfoRetrieval/z_3.csv")
+
+users.first()
+
+val userlist = users.filter(!_.isEmpty)
+.map(line=>line.split(","))
+.map(array=>(array(3),array(1)))
+.map(word=> (word._1,word._2.split(" ").filter(word=> word.startsWith("#"))))
+
+val cleanList = userlist.map(word=>(word._1.split(" ").filter(_.nonEmpty),word._2)).
+map(word=>(word._1(0),word._2))
+
+val reducedList = cleanList.reduceByKey((x,y)=>x++y)
+
+
+
+
+
