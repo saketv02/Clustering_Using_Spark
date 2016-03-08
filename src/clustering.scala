@@ -11,7 +11,7 @@ object clustering {
   
    def main(args: Array[String]) {
    val sc = new SparkContext("local[2]", "Clustering")
-   val users = sc.textFile("/home/cloudera/InfoRetrieval/z_3.csv")
+   val users = sc.textFile(args(0))
 
    users.first()
 
@@ -30,21 +30,21 @@ object clustering {
 
 
    val hashingTF:RDD[Vector] = new HashingTF().transform(values).cache()
-   val idf= new IDF().fit(hashingTF)
+   val idf= new IDF(minDocFreq=5000).fit(hashingTF)
    val tfidf:RDD[Vector]= idf.transform(hashingTF).cache()
    
    println(values.take(2).mkString("\n"))
    println(hashingTF.take(2).mkString("\n"))
    println(tfidf.take(2).mkString("\n"))
    
-   val clusters = KMeans.train(tfidf,4,40)
+   val clusters = KMeans.train(tfidf,4,20)
    val predictions=	clusters.predict(tfidf).map(s=>(s,1)).reduceByKey(_+_)
    println(predictions.take(4).mkString(" "))
    
    
   // println(predictions.take(30).mkString(" "))
    
-  // val wsse = clusters.computeCost(hashingTF)
+  // val wsse =  clusters.computeCost(hashingTF)
   // println("Within set sum of squares=" + wsse)
    
    }
