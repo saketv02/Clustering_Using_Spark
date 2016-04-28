@@ -16,7 +16,7 @@ object word2vec {
   
    def main(numClusters:Int,collection:String) {
    val sc = new SparkContext("local[2]", "Clustering")
-   val users = sc.textFile("user/cs5604s16_sn/input/" + collection)
+   val users = sc.textFile("user/cs5604s16_sn/input/tweets/" + collection +".txt" )
 
    users.first()
    
@@ -67,16 +67,16 @@ object word2vec {
 
   
     
-   val clusters = KMeans.train(data1,7,10)
+   val clusters = KMeans.train(data1,numClusters,10)
    val predictions=	clusters.predict(data1)
    val clustercount= predictions.map(s=>(s,1)).reduceByKey(_+_)
    val result= keys.zip(values).zip(predictions)
    val wsse = clusters.computeCost(data1)
    
    
-   result.saveAsTextFile("/user/cs5604s16_sn/ouput/"+collection)
+   result.saveAsTextFile("/user/cs5604s16_sn/output/tweets/"+collection)
    println(result.take(4).mkString(" "))
-   println(clustercount.take(7).mkString(" "))
+   println(clustercount.take(numClusters).mkString(" "))
    println(wsse.toString)
    
    
