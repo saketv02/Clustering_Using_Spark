@@ -14,9 +14,9 @@ import org.apache.spark.mllib.feature.Normalizer
 
 object word2vec {
   
-   def main(args: Array[String]) {
+   def main(numClusters:Int,collection:String) {
    val sc = new SparkContext("local[2]", "Clustering")
-   val users = sc.textFile(args(0))
+   val users = sc.textFile("user/cs5604s16_sn/input/" + collection)
 
    users.first()
    
@@ -64,17 +64,7 @@ object word2vec {
    val data1= test.map(x=>(normalizer.transform(x)))
    
    
-  /* test.count()    
-   println(test.count())
-    println(test.take(3).mkString("\n"))
-    
-     val test2 =  test.filter(_.length==0)
-    println("result:"+ test2.take(10).mkString("\n"))
-     println( test2.count().toString)
-     println(test.count().toString)*/
-    //println(values.take(3).mkString("\n"))
-   
-   //val tweets = values.map(x=> new DenseVector(divArray(x.map(m=>wordToVector(m,model).toArray).reduce(sumArray),x.length)).asInstanceOf[Vector])
+
   
     
    val clusters = KMeans.train(data1,7,10)
@@ -82,11 +72,13 @@ object word2vec {
    val clustercount= predictions.map(s=>(s,1)).reduceByKey(_+_)
    val result= keys.zip(values).zip(predictions)
    val wsse = clusters.computeCost(data1)
+   
+   
+   result.saveAsTextFile("/user/cs5604s16_sn/ouput/"+collection)
    println(result.take(4).mkString(" "))
    println(clustercount.take(7).mkString(" "))
    println(wsse.toString)
    
-   //result.saveAsTextFile(path)*/
    
    }
 }
