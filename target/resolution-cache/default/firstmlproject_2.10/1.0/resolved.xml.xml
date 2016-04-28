@@ -4,7 +4,7 @@
 		module="firstmlproject_2.10"
 		revision="1.0"
 		status="integration"
-		publication="20160228202013"
+		publication="20160329221621"
 	>
 		<description>
 		FirstMLProject
@@ -36,5 +36,6 @@
 		<dependency org="org.scala-lang" name="scala-library" rev="2.10.4" conf="scala-tool->default,optional(default);compile->default(compile)"/>
 		<dependency org="org.apache.spark" name="spark-core_2.10" rev="1.2.0" conf="compile->default(compile)"/>
 		<dependency org="org.apache.spark" name="spark-mllib_2.10" rev="1.2.0" conf="compile->default(compile)"/>
+		<dependency org="org.apache.avro" name="avro_2.10" rev="1.8.0" conf="compile->default(compile)"/>
 	</dependencies>
 </ivy-module>
