@@ -18,7 +18,7 @@ object word2vec {
     
    def main(numClusters:Int,collection:String) {
   // val sc = new SparkContext("local[2]", "Clustering")
-   val users = sc.textFile("input/tweets" + collection +".txt" )
+   val users = sc.textFile("input/tweets/" + collection +".txt" )
 
    users.first()
    
@@ -69,7 +69,7 @@ object word2vec {
    val wsse = clusters.computeCost(data1)
    
    
-   result.saveAsTextFile("output/tweets"+collection)
+   result.saveAsTextFile("output/tweets/"+collection)
    println(result.take(4).mkString(" "))
    println(clustercount.take(numClusters).mkString(" "))
    println(wsse.toString)
