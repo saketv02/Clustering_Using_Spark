@@ -4,7 +4,7 @@ output mode:
 0 -> multiple
 output directories:
 1 items
-/home/cloudera/InfoRetrieval/FirstMLProject/src -> /home/cloudera/InfoRetrieval/FirstMLProject/bin
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src -> /home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin
 compile options:
 8 items
 0 -> -javabootclasspath
@@ -28,78 +28,78 @@ name hashing:
 0 -> false
 products:
 55 items
-/home/cloudera/InfoRetrieval/FirstMLProject/src/DirectClustering.scala -> /home/cloudera/InfoRetrieval/FirstMLProject/bin/DirectClustering$$anonfun$1.class
-/home/cloudera/InfoRetrieval/FirstMLProject/src/DirectClustering.scala -> /home/cloudera/InfoRetrieval/FirstMLProject/bin/DirectClustering$$anonfun$2.class
-/home/cloudera/InfoRetrieval/FirstMLProject/src/DirectClustering.scala -> /home/cloudera/InfoRetrieval/FirstMLProject/bin/DirectClustering$$anonfun$3.class
-/home/cloudera/InfoRetrieval/FirstMLProject/src/DirectClustering.scala -> /home/cloudera/InfoRetrieval/FirstMLProject/bin/DirectClustering$$anonfun$4$$anonfun$apply$1.class
-/home/cloudera/InfoRetrieval/FirstMLProject/src/DirectClustering.scala -> /home/cloudera/InfoRetrieval/FirstMLProject/bin/DirectClustering$$anonfun$4.class
-/home/cloudera/InfoRetrieval/FirstMLProject/src/DirectClustering.scala -> /home/cloudera/InfoRetrieval/FirstMLProject/bin/DirectClustering$$anonfun$5.class
-/home/cloudera/InfoRetrieval/FirstMLProject/src/DirectClustering.scala -> /home/cloudera/InfoRetrieval/FirstMLProject/bin/DirectClustering$$anonfun$6.class
-/home/cloudera/InfoRetrieval/FirstMLProject/src/DirectClustering.scala -> /home/cloudera/InfoRetrieval/FirstMLProject/bin/DirectClustering$$anonfun$7.class
-/home/cloudera/InfoRetrieval/FirstMLProject/src/DirectClustering.scala -> /home/cloudera/InfoRetrieval/FirstMLProject/bin/DirectClustering$$anonfun$8.class
-/home/cloudera/InfoRetrieval/FirstMLProject/src/DirectClustering.scala -> /home/cloudera/InfoRetrieval/FirstMLProject/bin/DirectClustering$.class
-/home/cloudera/InfoRetrieval/FirstMLProject/src/DirectClustering.scala -> /home/cloudera/InfoRetrieval/FirstMLProject/bin/DirectClustering.class
-/home/cloudera/InfoRetrieval/FirstMLProject/src/clustering.scala -> /home/cloudera/InfoRetrieval/FirstMLProject/bin/clustering$$anonfun$1.class
-/home/cloudera/InfoRetrieval/FirstMLProject/src/clustering.scala -> /home/cloudera/InfoRetrieval/FirstMLProject/bin/clustering$$anonfun$10.class
-/home/cloudera/InfoRetrieval/FirstMLProject/src/clustering.scala -> /home/cloudera/InfoRetrieval/FirstMLProject/bin/clustering$$anonfun$11.class
-/home/cloudera/InfoRetrieval/FirstMLProject/src/clustering.scala -> /home/cloudera/InfoRetrieval/FirstMLProject/bin/clustering$$anonfun$2.class
-/home/cloudera/InfoRetrieval/FirstMLProject/src/clustering.scala -> /home/cloudera/InfoRetrieval/FirstMLProject/bin/clustering$$anonfun$3.class
-/home/cloudera/InfoRetrieval/FirstMLProject/src/clustering.scala -> /home/cloudera/InfoRetrieval/FirstMLProject/bin/clustering$$anonfun$4.class
-/home/cloudera/InfoRetrieval/FirstMLProject/src/clustering.scala -> /home/cloudera/InfoRetrieval/FirstMLProject/bin/clustering$$anonfun$5$$anonfun$apply$1.class
-/home/cloudera/InfoRetrieval/FirstMLProject/src/clustering.scala -> /home/cloudera/InfoRetrieval/FirstMLProject/bin/clustering$$anonfun$5.class
-/home/cloudera/InfoRetrieval/FirstMLProject/src/clustering.scala -> /home/cloudera/InfoRetrieval/FirstMLProject/bin/clustering$$anonfun$6$$anonfun$apply$2.class
-/home/cloudera/InfoRetrieval/FirstMLProject/src/clustering.scala -> /home/cloudera/InfoRetrieval/FirstMLProject/bin/clustering$$anonfun$6.class
-/home/cloudera/InfoRetrieval/FirstMLProject/src/clustering.scala -> /home/cloudera/InfoRetrieval/FirstMLProject/bin/clustering$$anonfun$7.class
-/home/cloudera/InfoRetrieval/FirstMLProject/src/clustering.scala -> /home/cloudera/InfoRetrieval/FirstMLProject/bin/clustering$$anonfun$8.class
-/home/cloudera/InfoRetrieval/FirstMLProject/src/clustering.scala -> /home/cloudera/InfoRetrieval/FirstMLProject/bin/clustering$$anonfun$9.class
-/home/cloudera/InfoRetrieval/FirstMLProject/src/clustering.scala -> /home/cloudera/InfoRetrieval/FirstMLProject/bin/clustering$$anonfun$main$1.class
-/home/cloudera/InfoRetrieval/FirstMLProject/src/clustering.scala -> /home/cloudera/InfoRetrieval/FirstMLProject/bin/clustering$.class
-/home/cloudera/InfoRetrieval/FirstMLProject/src/clustering.scala -> /home/cloudera/InfoRetrieval/FirstMLProject/bin/clustering.class
-/home/cloudera/InfoRetrieval/FirstMLProject/src/webpage.scala -> /home/cloudera/InfoRetrieval/FirstMLProject/bin/webpage$$anonfun$1.class
-/home/cloudera/InfoRetrieval/FirstMLProject/src/webpage.scala -> /home/cloudera/InfoRetrieval/FirstMLProject/bin/webpage$$anonfun$2.class
-/home/cloudera/InfoRetrieval/FirstMLProject/src/webpage.scala -> /home/cloudera/InfoRetrieval/FirstMLProject/bin/webpage$$anonfun$3$$anonfun$apply$1.class
-/home/cloudera/InfoRetrieval/FirstMLProject/src/webpage.scala -> /home/cloudera/InfoRetrieval/FirstMLProject/bin/webpage$$anonfun$3.class
-/home/cloudera/InfoRetrieval/FirstMLProject/src/webpage.scala -> /home/cloudera/InfoRetrieval/FirstMLProject/bin/webpage$.class
-/home/cloudera/InfoRetrieval/FirstMLProject/src/webpage.scala -> /home/cloudera/InfoRetrieval/FirstMLProject/bin/webpage.class
-/home/cloudera/InfoRetrieval/FirstMLProject/src/word2vec.scala -> /home/cloudera/InfoRetrieval/FirstMLProject/bin/word2vec$$anonfun$1.class
-/home/cloudera/InfoRetrieval/FirstMLProject/src/word2vec.scala -> /home/cloudera/InfoRetrieval/FirstMLProject/bin/word2vec$$anonfun$10$$anonfun$apply$3.class
-/home/cloudera/InfoRetrieval/FirstMLProject/src/word2vec.scala -> /home/cloudera/InfoRetrieval/FirstMLProject/bin/word2vec$$anonfun$10.class
-/home/cloudera/InfoRetrieval/FirstMLProject/src/word2vec.scala -> /home/cloudera/InfoRetrieval/FirstMLProject/bin/word2vec$$anonfun$11.class
-/home/cloudera/InfoRetrieval/FirstMLProject/src/word2vec.scala -> /home/cloudera/InfoRetrieval/FirstMLProject/bin/word2vec$$anonfun$12$$anonfun$apply$4.class
-/home/cloudera/InfoRetrieval/FirstMLProject/src/word2vec.scala -> /home/cloudera/InfoRetrieval/FirstMLProject/bin/word2vec$$anonfun$12.class
-/home/cloudera/InfoRetrieval/FirstMLProject/src/word2vec.scala -> /home/cloudera/InfoRetrieval/FirstMLProject/bin/word2vec$$anonfun$13.class
-/home/cloudera/InfoRetrieval/FirstMLProject/src/word2vec.scala -> /home/cloudera/InfoRetrieval/FirstMLProject/bin/word2vec$$anonfun$14.class
-/home/cloudera/InfoRetrieval/FirstMLProject/src/word2vec.scala -> /home/cloudera/InfoRetrieval/FirstMLProject/bin/word2vec$$anonfun$2.class
-/home/cloudera/InfoRetrieval/FirstMLProject/src/word2vec.scala -> /home/cloudera/InfoRetrieval/FirstMLProject/bin/word2vec$$anonfun$3.class
-/home/cloudera/InfoRetrieval/FirstMLProject/src/word2vec.scala -> /home/cloudera/InfoRetrieval/FirstMLProject/bin/word2vec$$anonfun$4$$anonfun$apply$1.class
-/home/cloudera/InfoRetrieval/FirstMLProject/src/word2vec.scala -> /home/cloudera/InfoRetrieval/FirstMLProject/bin/word2vec$$anonfun$4.class
-/home/cloudera/InfoRetrieval/FirstMLProject/src/word2vec.scala -> /home/cloudera/InfoRetrieval/FirstMLProject/bin/word2vec$$anonfun$5.class
-/home/cloudera/InfoRetrieval/FirstMLProject/src/word2vec.scala -> /home/cloudera/InfoRetrieval/FirstMLProject/bin/word2vec$$anonfun$6.class
-/home/cloudera/InfoRetrieval/FirstMLProject/src/word2vec.scala -> /home/cloudera/InfoRetrieval/FirstMLProject/bin/word2vec$$anonfun$7.class
-/home/cloudera/InfoRetrieval/FirstMLProject/src/word2vec.scala -> /home/cloudera/InfoRetrieval/FirstMLProject/bin/word2vec$$anonfun$8$$anonfun$apply$2.class
-/home/cloudera/InfoRetrieval/FirstMLProject/src/word2vec.scala -> /home/cloudera/InfoRetrieval/FirstMLProject/bin/word2vec$$anonfun$8.class
-/home/cloudera/InfoRetrieval/FirstMLProject/src/word2vec.scala -> /home/cloudera/InfoRetrieval/FirstMLProject/bin/word2vec$$anonfun$9.class
-/home/cloudera/InfoRetrieval/FirstMLProject/src/word2vec.scala -> /home/cloudera/InfoRetrieval/FirstMLProject/bin/word2vec$$anonfun$word2vec$$divArray$1$1.class
-/home/cloudera/InfoRetrieval/FirstMLProject/src/word2vec.scala -> /home/cloudera/InfoRetrieval/FirstMLProject/bin/word2vec$$anonfun$word2vec$$sumArray$1$1.class
-/home/cloudera/InfoRetrieval/FirstMLProject/src/word2vec.scala -> /home/cloudera/InfoRetrieval/FirstMLProject/bin/word2vec$.class
-/home/cloudera/InfoRetrieval/FirstMLProject/src/word2vec.scala -> /home/cloudera/InfoRetrieval/FirstMLProject/bin/word2vec.class
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/DirectClustering.scala -> /home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/DirectClustering$$anonfun$1.class
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/DirectClustering.scala -> /home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/DirectClustering$$anonfun$2.class
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/DirectClustering.scala -> /home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/DirectClustering$$anonfun$3.class
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/DirectClustering.scala -> /home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/DirectClustering$$anonfun$4$$anonfun$apply$1.class
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/DirectClustering.scala -> /home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/DirectClustering$$anonfun$4.class
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/DirectClustering.scala -> /home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/DirectClustering$$anonfun$5.class
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/DirectClustering.scala -> /home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/DirectClustering$$anonfun$6.class
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/DirectClustering.scala -> /home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/DirectClustering$$anonfun$7.class
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/DirectClustering.scala -> /home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/DirectClustering$$anonfun$8.class
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/DirectClustering.scala -> /home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/DirectClustering$.class
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/DirectClustering.scala -> /home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/DirectClustering.class
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/clustering.scala -> /home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/clustering$$anonfun$1.class
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/clustering.scala -> /home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/clustering$$anonfun$10.class
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/clustering.scala -> /home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/clustering$$anonfun$11.class
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/clustering.scala -> /home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/clustering$$anonfun$2.class
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/clustering.scala -> /home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/clustering$$anonfun$3.class
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/clustering.scala -> /home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/clustering$$anonfun$4.class
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/clustering.scala -> /home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/clustering$$anonfun$5$$anonfun$apply$1.class
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/clustering.scala -> /home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/clustering$$anonfun$5.class
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/clustering.scala -> /home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/clustering$$anonfun$6$$anonfun$apply$2.class
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/clustering.scala -> /home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/clustering$$anonfun$6.class
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/clustering.scala -> /home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/clustering$$anonfun$7.class
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/clustering.scala -> /home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/clustering$$anonfun$8.class
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/clustering.scala -> /home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/clustering$$anonfun$9.class
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/clustering.scala -> /home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/clustering$$anonfun$main$1.class
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/clustering.scala -> /home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/clustering$.class
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/clustering.scala -> /home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/clustering.class
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/webpage.scala -> /home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/webpage$$anonfun$1.class
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/webpage.scala -> /home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/webpage$$anonfun$2.class
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/webpage.scala -> /home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/webpage$$anonfun$3$$anonfun$apply$1.class
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/webpage.scala -> /home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/webpage$$anonfun$3.class
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/webpage.scala -> /home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/webpage$.class
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/webpage.scala -> /home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/webpage.class
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/word2vec.scala -> /home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/word2vec$$anonfun$1.class
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/word2vec.scala -> /home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/word2vec$$anonfun$10$$anonfun$apply$3.class
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/word2vec.scala -> /home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/word2vec$$anonfun$10.class
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/word2vec.scala -> /home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/word2vec$$anonfun$11.class
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/word2vec.scala -> /home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/word2vec$$anonfun$12$$anonfun$apply$4.class
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/word2vec.scala -> /home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/word2vec$$anonfun$12.class
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/word2vec.scala -> /home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/word2vec$$anonfun$13.class
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/word2vec.scala -> /home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/word2vec$$anonfun$14.class
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/word2vec.scala -> /home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/word2vec$$anonfun$2.class
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/word2vec.scala -> /home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/word2vec$$anonfun$3.class
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/word2vec.scala -> /home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/word2vec$$anonfun$4$$anonfun$apply$1.class
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/word2vec.scala -> /home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/word2vec$$anonfun$4.class
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/word2vec.scala -> /home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/word2vec$$anonfun$5.class
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/word2vec.scala -> /home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/word2vec$$anonfun$6.class
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/word2vec.scala -> /home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/word2vec$$anonfun$7.class
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/word2vec.scala -> /home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/word2vec$$anonfun$8$$anonfun$apply$2.class
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/word2vec.scala -> /home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/word2vec$$anonfun$8.class
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/word2vec.scala -> /home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/word2vec$$anonfun$9.class
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/word2vec.scala -> /home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/word2vec$$anonfun$word2vec$$divArray$1$1.class
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/word2vec.scala -> /home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/word2vec$$anonfun$word2vec$$sumArray$1$1.class
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/word2vec.scala -> /home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/word2vec$.class
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/word2vec.scala -> /home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/word2vec.class
 binary dependencies:
 15 items
-/home/cloudera/InfoRetrieval/FirstMLProject/src/DirectClustering.scala -> /home/cloudera/eclipse/configuration/org.eclipse.osgi/bundles/445/1/.cp/lib/scala-library.jar
-/home/cloudera/InfoRetrieval/FirstMLProject/src/DirectClustering.scala -> /root/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.2.0.jar
-/home/cloudera/InfoRetrieval/FirstMLProject/src/DirectClustering.scala -> /root/.ivy2/cache/org.apache.spark/spark-mllib_2.10/jars/spark-mllib_2.10-1.2.0.jar
-/home/cloudera/InfoRetrieval/FirstMLProject/src/DirectClustering.scala -> /usr/java/jdk1.7.0_67-cloudera/jre/lib/rt.jar
-/home/cloudera/InfoRetrieval/FirstMLProject/src/clustering.scala -> /home/cloudera/eclipse/configuration/org.eclipse.osgi/bundles/445/1/.cp/lib/scala-library.jar
-/home/cloudera/InfoRetrieval/FirstMLProject/src/clustering.scala -> /root/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.2.0.jar
-/home/cloudera/InfoRetrieval/FirstMLProject/src/clustering.scala -> /root/.ivy2/cache/org.apache.spark/spark-mllib_2.10/jars/spark-mllib_2.10-1.2.0.jar
-/home/cloudera/InfoRetrieval/FirstMLProject/src/clustering.scala -> /usr/java/jdk1.7.0_67-cloudera/jre/lib/rt.jar
-/home/cloudera/InfoRetrieval/FirstMLProject/src/webpage.scala -> /home/cloudera/eclipse/configuration/org.eclipse.osgi/bundles/445/1/.cp/lib/scala-library.jar
-/home/cloudera/InfoRetrieval/FirstMLProject/src/webpage.scala -> /root/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.2.0.jar
-/home/cloudera/InfoRetrieval/FirstMLProject/src/webpage.scala -> /usr/java/jdk1.7.0_67-cloudera/jre/lib/rt.jar
-/home/cloudera/InfoRetrieval/FirstMLProject/src/word2vec.scala -> /home/cloudera/eclipse/configuration/org.eclipse.osgi/bundles/445/1/.cp/lib/scala-library.jar
-/home/cloudera/InfoRetrieval/FirstMLProject/src/word2vec.scala -> /root/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.2.0.jar
-/home/cloudera/InfoRetrieval/FirstMLProject/src/word2vec.scala -> /root/.ivy2/cache/org.apache.spark/spark-mllib_2.10/jars/spark-mllib_2.10-1.2.0.jar
-/home/cloudera/InfoRetrieval/FirstMLProject/src/word2vec.scala -> /usr/java/jdk1.7.0_67-cloudera/jre/lib/rt.jar
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/DirectClustering.scala -> /home/cloudera/eclipse/configuration/org.eclipse.osgi/bundles/445/1/.cp/lib/scala-library.jar
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/DirectClustering.scala -> /root/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.2.0.jar
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/DirectClustering.scala -> /root/.ivy2/cache/org.apache.spark/spark-mllib_2.10/jars/spark-mllib_2.10-1.2.0.jar
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/DirectClustering.scala -> /usr/java/jdk1.7.0_67-cloudera/jre/lib/rt.jar
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/clustering.scala -> /home/cloudera/eclipse/configuration/org.eclipse.osgi/bundles/445/1/.cp/lib/scala-library.jar
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/clustering.scala -> /root/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.2.0.jar
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/clustering.scala -> /root/.ivy2/cache/org.apache.spark/spark-mllib_2.10/jars/spark-mllib_2.10-1.2.0.jar
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/clustering.scala -> /usr/java/jdk1.7.0_67-cloudera/jre/lib/rt.jar
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/webpage.scala -> /home/cloudera/eclipse/configuration/org.eclipse.osgi/bundles/445/1/.cp/lib/scala-library.jar
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/webpage.scala -> /root/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.2.0.jar
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/webpage.scala -> /usr/java/jdk1.7.0_67-cloudera/jre/lib/rt.jar
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/word2vec.scala -> /home/cloudera/eclipse/configuration/org.eclipse.osgi/bundles/445/1/.cp/lib/scala-library.jar
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/word2vec.scala -> /root/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.2.0.jar
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/word2vec.scala -> /root/.ivy2/cache/org.apache.spark/spark-mllib_2.10/jars/spark-mllib_2.10-1.2.0.jar
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/word2vec.scala -> /usr/java/jdk1.7.0_67-cloudera/jre/lib/rt.jar
 direct source dependencies:
 0 items
 direct external dependencies:
@@ -118,126 +118,126 @@ inheritance external dependencies:
 0 items
 class names:
 55 items
-/home/cloudera/InfoRetrieval/FirstMLProject/src/DirectClustering.scala -> DirectClustering
-/home/cloudera/InfoRetrieval/FirstMLProject/src/DirectClustering.scala -> DirectClustering$
-/home/cloudera/InfoRetrieval/FirstMLProject/src/DirectClustering.scala -> DirectClustering$$anonfun$1
-/home/cloudera/InfoRetrieval/FirstMLProject/src/DirectClustering.scala -> DirectClustering$$anonfun$2
-/home/cloudera/InfoRetrieval/FirstMLProject/src/DirectClustering.scala -> DirectClustering$$anonfun$3
-/home/cloudera/InfoRetrieval/FirstMLProject/src/DirectClustering.scala -> DirectClustering$$anonfun$4
-/home/cloudera/InfoRetrieval/FirstMLProject/src/DirectClustering.scala -> DirectClustering$$anonfun$4$$anonfun$apply$1
-/home/cloudera/InfoRetrieval/FirstMLProject/src/DirectClustering.scala -> DirectClustering$$anonfun$5
-/home/cloudera/InfoRetrieval/FirstMLProject/src/DirectClustering.scala -> DirectClustering$$anonfun$6
-/home/cloudera/InfoRetrieval/FirstMLProject/src/DirectClustering.scala -> DirectClustering$$anonfun$7
-/home/cloudera/InfoRetrieval/FirstMLProject/src/DirectClustering.scala -> DirectClustering$$anonfun$8
-/home/cloudera/InfoRetrieval/FirstMLProject/src/clustering.scala -> clustering
-/home/cloudera/InfoRetrieval/FirstMLProject/src/clustering.scala -> clustering$
-/home/cloudera/InfoRetrieval/FirstMLProject/src/clustering.scala -> clustering$$anonfun$1
-/home/cloudera/InfoRetrieval/FirstMLProject/src/clustering.scala -> clustering$$anonfun$10
-/home/cloudera/InfoRetrieval/FirstMLProject/src/clustering.scala -> clustering$$anonfun$11
-/home/cloudera/InfoRetrieval/FirstMLProject/src/clustering.scala -> clustering$$anonfun$2
-/home/cloudera/InfoRetrieval/FirstMLProject/src/clustering.scala -> clustering$$anonfun$3
-/home/cloudera/InfoRetrieval/FirstMLProject/src/clustering.scala -> clustering$$anonfun$4
-/home/cloudera/InfoRetrieval/FirstMLProject/src/clustering.scala -> clustering$$anonfun$5
-/home/cloudera/InfoRetrieval/FirstMLProject/src/clustering.scala -> clustering$$anonfun$5$$anonfun$apply$1
-/home/cloudera/InfoRetrieval/FirstMLProject/src/clustering.scala -> clustering$$anonfun$6
-/home/cloudera/InfoRetrieval/FirstMLProject/src/clustering.scala -> clustering$$anonfun$6$$anonfun$apply$2
-/home/cloudera/InfoRetrieval/FirstMLProject/src/clustering.scala -> clustering$$anonfun$7
-/home/cloudera/InfoRetrieval/FirstMLProject/src/clustering.scala -> clustering$$anonfun$8
-/home/cloudera/InfoRetrieval/FirstMLProject/src/clustering.scala -> clustering$$anonfun$9
-/home/cloudera/InfoRetrieval/FirstMLProject/src/clustering.scala -> clustering$$anonfun$main$1
-/home/cloudera/InfoRetrieval/FirstMLProject/src/webpage.scala -> webpage
-/home/cloudera/InfoRetrieval/FirstMLProject/src/webpage.scala -> webpage$
-/home/cloudera/InfoRetrieval/FirstMLProject/src/webpage.scala -> webpage$$anonfun$1
-/home/cloudera/InfoRetrieval/FirstMLProject/src/webpage.scala -> webpage$$anonfun$2
-/home/cloudera/InfoRetrieval/FirstMLProject/src/webpage.scala -> webpage$$anonfun$3
-/home/cloudera/InfoRetrieval/FirstMLProject/src/webpage.scala -> webpage$$anonfun$3$$anonfun$apply$1
-/home/cloudera/InfoRetrieval/FirstMLProject/src/word2vec.scala -> word2vec
-/home/cloudera/InfoRetrieval/FirstMLProject/src/word2vec.scala -> word2vec$
-/home/cloudera/InfoRetrieval/FirstMLProject/src/word2vec.scala -> word2vec$$anonfun$1
-/home/cloudera/InfoRetrieval/FirstMLProject/src/word2vec.scala -> word2vec$$anonfun$10
-/home/cloudera/InfoRetrieval/FirstMLProject/src/word2vec.scala -> word2vec$$anonfun$10$$anonfun$apply$3
-/home/cloudera/InfoRetrieval/FirstMLProject/src/word2vec.scala -> word2vec$$anonfun$11
-/home/cloudera/InfoRetrieval/FirstMLProject/src/word2vec.scala -> word2vec$$anonfun$12
-/home/cloudera/InfoRetrieval/FirstMLProject/src/word2vec.scala -> word2vec$$anonfun$12$$anonfun$apply$4
-/home/cloudera/InfoRetrieval/FirstMLProject/src/word2vec.scala -> word2vec$$anonfun$13
-/home/cloudera/InfoRetrieval/FirstMLProject/src/word2vec.scala -> word2vec$$anonfun$14
-/home/cloudera/InfoRetrieval/FirstMLProject/src/word2vec.scala -> word2vec$$anonfun$2
-/home/cloudera/InfoRetrieval/FirstMLProject/src/word2vec.scala -> word2vec$$anonfun$3
-/home/cloudera/InfoRetrieval/FirstMLProject/src/word2vec.scala -> word2vec$$anonfun$4
-/home/cloudera/InfoRetrieval/FirstMLProject/src/word2vec.scala -> word2vec$$anonfun$4$$anonfun$apply$1
-/home/cloudera/InfoRetrieval/FirstMLProject/src/word2vec.scala -> word2vec$$anonfun$5
-/home/cloudera/InfoRetrieval/FirstMLProject/src/word2vec.scala -> word2vec$$anonfun$6
-/home/cloudera/InfoRetrieval/FirstMLProject/src/word2vec.scala -> word2vec$$anonfun$7
-/home/cloudera/InfoRetrieval/FirstMLProject/src/word2vec.scala -> word2vec$$anonfun$8
-/home/cloudera/InfoRetrieval/FirstMLProject/src/word2vec.scala -> word2vec$$anonfun$8$$anonfun$apply$2
-/home/cloudera/InfoRetrieval/FirstMLProject/src/word2vec.scala -> word2vec$$anonfun$9
-/home/cloudera/InfoRetrieval/FirstMLProject/src/word2vec.scala -> word2vec$$anonfun$word2vec$$divArray$1$1
-/home/cloudera/InfoRetrieval/FirstMLProject/src/word2vec.scala -> word2vec$$anonfun$word2vec$$sumArray$1$1
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/DirectClustering.scala -> DirectClustering
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/DirectClustering.scala -> DirectClustering$
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/DirectClustering.scala -> DirectClustering$$anonfun$1
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/DirectClustering.scala -> DirectClustering$$anonfun$2
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/DirectClustering.scala -> DirectClustering$$anonfun$3
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/DirectClustering.scala -> DirectClustering$$anonfun$4
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/DirectClustering.scala -> DirectClustering$$anonfun$4$$anonfun$apply$1
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/DirectClustering.scala -> DirectClustering$$anonfun$5
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/DirectClustering.scala -> DirectClustering$$anonfun$6
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/DirectClustering.scala -> DirectClustering$$anonfun$7
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/DirectClustering.scala -> DirectClustering$$anonfun$8
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/clustering.scala -> clustering
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/clustering.scala -> clustering$
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/clustering.scala -> clustering$$anonfun$1
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/clustering.scala -> clustering$$anonfun$10
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/clustering.scala -> clustering$$anonfun$11
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/clustering.scala -> clustering$$anonfun$2
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/clustering.scala -> clustering$$anonfun$3
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/clustering.scala -> clustering$$anonfun$4
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/clustering.scala -> clustering$$anonfun$5
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/clustering.scala -> clustering$$anonfun$5$$anonfun$apply$1
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/clustering.scala -> clustering$$anonfun$6
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/clustering.scala -> clustering$$anonfun$6$$anonfun$apply$2
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/clustering.scala -> clustering$$anonfun$7
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/clustering.scala -> clustering$$anonfun$8
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/clustering.scala -> clustering$$anonfun$9
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/clustering.scala -> clustering$$anonfun$main$1
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/webpage.scala -> webpage
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/webpage.scala -> webpage$
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/webpage.scala -> webpage$$anonfun$1
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/webpage.scala -> webpage$$anonfun$2
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/webpage.scala -> webpage$$anonfun$3
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/webpage.scala -> webpage$$anonfun$3$$anonfun$apply$1
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/word2vec.scala -> word2vec
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/word2vec.scala -> word2vec$
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/word2vec.scala -> word2vec$$anonfun$1
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/word2vec.scala -> word2vec$$anonfun$10
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/word2vec.scala -> word2vec$$anonfun$10$$anonfun$apply$3
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/word2vec.scala -> word2vec$$anonfun$11
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/word2vec.scala -> word2vec$$anonfun$12
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/word2vec.scala -> word2vec$$anonfun$12$$anonfun$apply$4
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/word2vec.scala -> word2vec$$anonfun$13
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/word2vec.scala -> word2vec$$anonfun$14
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/word2vec.scala -> word2vec$$anonfun$2
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/word2vec.scala -> word2vec$$anonfun$3
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/word2vec.scala -> word2vec$$anonfun$4
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/word2vec.scala -> word2vec$$anonfun$4$$anonfun$apply$1
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/word2vec.scala -> word2vec$$anonfun$5
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/word2vec.scala -> word2vec$$anonfun$6
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/word2vec.scala -> word2vec$$anonfun$7
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/word2vec.scala -> word2vec$$anonfun$8
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/word2vec.scala -> word2vec$$anonfun$8$$anonfun$apply$2
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/word2vec.scala -> word2vec$$anonfun$9
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/word2vec.scala -> word2vec$$anonfun$word2vec$$divArray$1$1
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/word2vec.scala -> word2vec$$anonfun$word2vec$$sumArray$1$1
 used names:
 0 items
 product stamps:
 55 items
-/home/cloudera/InfoRetrieval/FirstMLProject/bin/DirectClustering$$anonfun$1.class -> lastModified(1459440138000)
-/home/cloudera/InfoRetrieval/FirstMLProject/bin/DirectClustering$$anonfun$2.class -> lastModified(1459440138000)
-/home/cloudera/InfoRetrieval/FirstMLProject/bin/DirectClustering$$anonfun$3.class -> lastModified(1459440138000)
-/home/cloudera/InfoRetrieval/FirstMLProject/bin/DirectClustering$$anonfun$4$$anonfun$apply$1.class -> lastModified(1459440138000)
-/home/cloudera/InfoRetrieval/FirstMLProject/bin/DirectClustering$$anonfun$4.class -> lastModified(1459440138000)
-/home/cloudera/InfoRetrieval/FirstMLProject/bin/DirectClustering$$anonfun$5.class -> lastModified(1459440138000)
-/home/cloudera/InfoRetrieval/FirstMLProject/bin/DirectClustering$$anonfun$6.class -> lastModified(1459440138000)
-/home/cloudera/InfoRetrieval/FirstMLProject/bin/DirectClustering$$anonfun$7.class -> lastModified(1459440138000)
-/home/cloudera/InfoRetrieval/FirstMLProject/bin/DirectClustering$$anonfun$8.class -> lastModified(1459440138000)
-/home/cloudera/InfoRetrieval/FirstMLProject/bin/DirectClustering$.class -> lastModified(1459440138000)
-/home/cloudera/InfoRetrieval/FirstMLProject/bin/DirectClustering.class -> lastModified(1459440138000)
-/home/cloudera/InfoRetrieval/FirstMLProject/bin/clustering$$anonfun$1.class -> lastModified(1459313291000)
-/home/cloudera/InfoRetrieval/FirstMLProject/bin/clustering$$anonfun$10.class -> lastModified(1459313291000)
-/home/cloudera/InfoRetrieval/FirstMLProject/bin/clustering$$anonfun$11.class -> lastModified(1459313291000)
-/home/cloudera/InfoRetrieval/FirstMLProject/bin/clustering$$anonfun$2.class -> lastModified(1459313291000)
-/home/cloudera/InfoRetrieval/FirstMLProject/bin/clustering$$anonfun$3.class -> lastModified(1459313291000)
-/home/cloudera/InfoRetrieval/FirstMLProject/bin/clustering$$anonfun$4.class -> lastModified(1459313291000)
-/home/cloudera/InfoRetrieval/FirstMLProject/bin/clustering$$anonfun$5$$anonfun$apply$1.class -> lastModified(1459313291000)
-/home/cloudera/InfoRetrieval/FirstMLProject/bin/clustering$$anonfun$5.class -> lastModified(1459313291000)
-/home/cloudera/InfoRetrieval/FirstMLProject/bin/clustering$$anonfun$6$$anonfun$apply$2.class -> lastModified(1459313291000)
-/home/cloudera/InfoRetrieval/FirstMLProject/bin/clustering$$anonfun$6.class -> lastModified(1459313291000)
-/home/cloudera/InfoRetrieval/FirstMLProject/bin/clustering$$anonfun$7.class -> lastModified(1459313291000)
-/home/cloudera/InfoRetrieval/FirstMLProject/bin/clustering$$anonfun$8.class -> lastModified(1459313291000)
-/home/cloudera/InfoRetrieval/FirstMLProject/bin/clustering$$anonfun$9.class -> lastModified(1459313291000)
-/home/cloudera/InfoRetrieval/FirstMLProject/bin/clustering$$anonfun$main$1.class -> lastModified(1459313291000)
-/home/cloudera/InfoRetrieval/FirstMLProject/bin/clustering$.class -> lastModified(1459313291000)
-/home/cloudera/InfoRetrieval/FirstMLProject/bin/clustering.class -> lastModified(1459313291000)
-/home/cloudera/InfoRetrieval/FirstMLProject/bin/webpage$$anonfun$1.class -> lastModified(1459316873000)
-/home/cloudera/InfoRetrieval/FirstMLProject/bin/webpage$$anonfun$2.class -> lastModified(1459316873000)
-/home/cloudera/InfoRetrieval/FirstMLProject/bin/webpage$$anonfun$3$$anonfun$apply$1.class -> lastModified(1459316873000)
-/home/cloudera/InfoRetrieval/FirstMLProject/bin/webpage$$anonfun$3.class -> lastModified(1459316873000)
-/home/cloudera/InfoRetrieval/FirstMLProject/bin/webpage$.class -> lastModified(1459316873000)
-/home/cloudera/InfoRetrieval/FirstMLProject/bin/webpage.class -> lastModified(1459316873000)
-/home/cloudera/InfoRetrieval/FirstMLProject/bin/word2vec$$anonfun$1.class -> lastModified(1459444056000)
-/home/cloudera/InfoRetrieval/FirstMLProject/bin/word2vec$$anonfun$10$$anonfun$apply$3.class -> lastModified(1459444056000)
-/home/cloudera/InfoRetrieval/FirstMLProject/bin/word2vec$$anonfun$10.class -> lastModified(1459444056000)
-/home/cloudera/InfoRetrieval/FirstMLProject/bin/word2vec$$anonfun$11.class -> lastModified(1459444056000)
-/home/cloudera/InfoRetrieval/FirstMLProject/bin/word2vec$$anonfun$12$$anonfun$apply$4.class -> lastModified(1459444056000)
-/home/cloudera/InfoRetrieval/FirstMLProject/bin/word2vec$$anonfun$12.class -> lastModified(1459444056000)
-/home/cloudera/InfoRetrieval/FirstMLProject/bin/word2vec$$anonfun$13.class -> lastModified(1459444056000)
-/home/cloudera/InfoRetrieval/FirstMLProject/bin/word2vec$$anonfun$14.class -> lastModified(1459444056000)
-/home/cloudera/InfoRetrieval/FirstMLProject/bin/word2vec$$anonfun$2.class -> lastModified(1459444056000)
-/home/cloudera/InfoRetrieval/FirstMLProject/bin/word2vec$$anonfun$3.class -> lastModified(1459444056000)
-/home/cloudera/InfoRetrieval/FirstMLProject/bin/word2vec$$anonfun$4$$anonfun$apply$1.class -> lastModified(1459444056000)
-/home/cloudera/InfoRetrieval/FirstMLProject/bin/word2vec$$anonfun$4.class -> lastModified(1459444056000)
-/home/cloudera/InfoRetrieval/FirstMLProject/bin/word2vec$$anonfun$5.class -> lastModified(1459444056000)
-/home/cloudera/InfoRetrieval/FirstMLProject/bin/word2vec$$anonfun$6.class -> lastModified(1459444056000)
-/home/cloudera/InfoRetrieval/FirstMLProject/bin/word2vec$$anonfun$7.class -> lastModified(1459444056000)
-/home/cloudera/InfoRetrieval/FirstMLProject/bin/word2vec$$anonfun$8$$anonfun$apply$2.class -> lastModified(1459444056000)
-/home/cloudera/InfoRetrieval/FirstMLProject/bin/word2vec$$anonfun$8.class -> lastModified(1459444056000)
-/home/cloudera/InfoRetrieval/FirstMLProject/bin/word2vec$$anonfun$9.class -> lastModified(1459444056000)
-/home/cloudera/InfoRetrieval/FirstMLProject/bin/word2vec$$anonfun$word2vec$$divArray$1$1.class -> lastModified(1459444056000)
-/home/cloudera/InfoRetrieval/FirstMLProject/bin/word2vec$$anonfun$word2vec$$sumArray$1$1.class -> lastModified(1459444056000)
-/home/cloudera/InfoRetrieval/FirstMLProject/bin/word2vec$.class -> lastModified(1459444056000)
-/home/cloudera/InfoRetrieval/FirstMLProject/bin/word2vec.class -> lastModified(1459444055000)
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/DirectClustering$$anonfun$1.class -> lastModified(1461804122000)
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/DirectClustering$$anonfun$2.class -> lastModified(1461804122000)
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/DirectClustering$$anonfun$3.class -> lastModified(1461804122000)
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/DirectClustering$$anonfun$4$$anonfun$apply$1.class -> lastModified(1461804122000)
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/DirectClustering$$anonfun$4.class -> lastModified(1461804122000)
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/DirectClustering$$anonfun$5.class -> lastModified(1461804122000)
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/DirectClustering$$anonfun$6.class -> lastModified(1461804122000)
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/DirectClustering$$anonfun$7.class -> lastModified(1461804122000)
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/DirectClustering$$anonfun$8.class -> lastModified(1461804122000)
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/DirectClustering$.class -> lastModified(1461804122000)
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/DirectClustering.class -> lastModified(1461804122000)
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/clustering$$anonfun$1.class -> lastModified(1461804122000)
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/clustering$$anonfun$10.class -> lastModified(1461804122000)
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/clustering$$anonfun$11.class -> lastModified(1461804122000)
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/clustering$$anonfun$2.class -> lastModified(1461804122000)
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/clustering$$anonfun$3.class -> lastModified(1461804122000)
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/clustering$$anonfun$4.class -> lastModified(1461804122000)
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/clustering$$anonfun$5$$anonfun$apply$1.class -> lastModified(1461804122000)
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/clustering$$anonfun$5.class -> lastModified(1461804122000)
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/clustering$$anonfun$6$$anonfun$apply$2.class -> lastModified(1461804122000)
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/clustering$$anonfun$6.class -> lastModified(1461804122000)
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/clustering$$anonfun$7.class -> lastModified(1461804122000)
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/clustering$$anonfun$8.class -> lastModified(1461804122000)
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/clustering$$anonfun$9.class -> lastModified(1461804122000)
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/clustering$$anonfun$main$1.class -> lastModified(1461804122000)
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/clustering$.class -> lastModified(1461804122000)
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/clustering.class -> lastModified(1461804122000)
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/webpage$$anonfun$1.class -> lastModified(1461804122000)
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/webpage$$anonfun$2.class -> lastModified(1461804122000)
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/webpage$$anonfun$3$$anonfun$apply$1.class -> lastModified(1461804122000)
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/webpage$$anonfun$3.class -> lastModified(1461804122000)
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/webpage$.class -> lastModified(1461804122000)
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/webpage.class -> lastModified(1461804122000)
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/word2vec$$anonfun$1.class -> lastModified(1461855688000)
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/word2vec$$anonfun$10$$anonfun$apply$3.class -> lastModified(1461855688000)
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/word2vec$$anonfun$10.class -> lastModified(1461855688000)
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/word2vec$$anonfun$11.class -> lastModified(1461855688000)
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/word2vec$$anonfun$12$$anonfun$apply$4.class -> lastModified(1461855688000)
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/word2vec$$anonfun$12.class -> lastModified(1461855688000)
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/word2vec$$anonfun$13.class -> lastModified(1461855688000)
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/word2vec$$anonfun$14.class -> lastModified(1461855688000)
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/word2vec$$anonfun$2.class -> lastModified(1461855688000)
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/word2vec$$anonfun$3.class -> lastModified(1461855688000)
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/word2vec$$anonfun$4$$anonfun$apply$1.class -> lastModified(1461855688000)
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/word2vec$$anonfun$4.class -> lastModified(1461855688000)
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/word2vec$$anonfun$5.class -> lastModified(1461855688000)
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/word2vec$$anonfun$6.class -> lastModified(1461855688000)
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/word2vec$$anonfun$7.class -> lastModified(1461855688000)
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/word2vec$$anonfun$8$$anonfun$apply$2.class -> lastModified(1461855688000)
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/word2vec$$anonfun$8.class -> lastModified(1461855688000)
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/word2vec$$anonfun$9.class -> lastModified(1461855688000)
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/word2vec$$anonfun$word2vec$$divArray$1$1.class -> lastModified(1461855688000)
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/word2vec$$anonfun$word2vec$$sumArray$1$1.class -> lastModified(1461855688000)
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/word2vec$.class -> lastModified(1461855688000)
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/bin/word2vec.class -> lastModified(1461855688000)
 source stamps:
 4 items
-/home/cloudera/InfoRetrieval/FirstMLProject/src/DirectClustering.scala -> hash(3d470af961ccafc6ed101611ca484a2005114fb7)
-/home/cloudera/InfoRetrieval/FirstMLProject/src/clustering.scala -> hash(9dc5ddfbd5985b4e08a49796255a53868dfd2dca)
-/home/cloudera/InfoRetrieval/FirstMLProject/src/webpage.scala -> hash(78103b771660fb27a62999a29d394ae626e3840b)
-/home/cloudera/InfoRetrieval/FirstMLProject/src/word2vec.scala -> hash(27f29673577e6b6d922d03d1f10156dbc217c166)
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/DirectClustering.scala -> hash(3d470af961ccafc6ed101611ca484a2005114fb7)
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/clustering.scala -> hash(9dc5ddfbd5985b4e08a49796255a53868dfd2dca)
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/webpage.scala -> hash(78103b771660fb27a62999a29d394ae626e3840b)
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/word2vec.scala -> hash(f48ac882771178f1078e04c033fc728c7f574086)
 binary stamps:
 4 items
 /home/cloudera/eclipse/configuration/org.eclipse.osgi/bundles/445/1/.cp/lib/scala-library.jar -> lastModified(1456076687000)
@@ -246,34 +246,34 @@ binary stamps:
 /usr/java/jdk1.7.0_67-cloudera/jre/lib/rt.jar -> lastModified(1409687212000)
 class names:
 4 items
-/home/cloudera/eclipse/configuration/org.eclipse.osgi/bundles/445/1/.cp/lib/scala-library.jar -> scala.Int
+/home/cloudera/eclipse/configuration/org.eclipse.osgi/bundles/445/1/.cp/lib/scala-library.jar -> scala.math.Ordering$
 /root/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.2.0.jar -> org.apache.spark.SparkContext
-/root/.ivy2/cache/org.apache.spark/spark-mllib_2.10/jars/spark-mllib_2.10-1.2.0.jar -> org.apache.spark.mllib.linalg.Vectors$
+/root/.ivy2/cache/org.apache.spark/spark-mllib_2.10/jars/spark-mllib_2.10-1.2.0.jar -> org.apache.spark.mllib.linalg.Vector
 /usr/java/jdk1.7.0_67-cloudera/jre/lib/rt.jar -> java.lang.Object
 internal apis:
 4 items
-/home/cloudera/InfoRetrieval/FirstMLProject/src/DirectClustering.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAf5AUmAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAQRGlyZWN0Q2x1c3RlcmluZ3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4ALgFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AFUwACWluaGVyaXRlZHEAfgAVTAAHcGFyZW50c3EAfgAVeHEAfgA1c3EAfgAuAXVxAH4AEAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AFnEAfgAgdXEAfgAhAAAAAHNxAH4AIwB0AARtYWludXEAfgAmAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4AHEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+ADR0AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgA0c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4AHHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgBRdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+ABxMAAN0cGVxAH4APXhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AKXQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4ARVsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4ANHNxAH4ARHQABUFycmF5cQB+AEp1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4ARHQABlN0cmluZ3NxAH4ASHNxAH4AS3VxAH4ATgAAAANzcQB+AFB0AARqYXZhc3EAfgBQdAAEbGFuZ3EAfgBVcHNxAH4ALgF1cQB+ABAAAAAAcHNxAH4ALgF1cQB+AGkAAAACc3EAfgBEdAAGT2JqZWN0cQB+AG1zcQB+AER0AANBbnlxAH4ASnBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVPNaTG5dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAcTAAPc291cmNlRGlyZWN0b3J5cQB+ABx4cHQALy9ob21lL2Nsb3VkZXJhL0luZm9SZXRyaWV2YWwvRmlyc3RNTFByb2plY3QvYmludAAvL2hvbWUvY2xvdWRlcmEvSW5mb1JldHJpZXZhbC9GaXJzdE1MUHJvamVjdC9zcmN1cgACW0Ks8xf4BghU4AIAAHhwAAAAFD1HCvlhzK/G7RAWEcpISiAFEU+3
-/home/cloudera/InfoRetrieval/FirstMLProject/src/clustering.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDqy5L8AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAKY2x1c3RlcmluZ3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4ALgFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AFUwACWluaGVyaXRlZHEAfgAVTAAHcGFyZW50c3EAfgAVeHEAfgA1c3EAfgAuAXVxAH4AEAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AFnEAfgAgdXEAfgAhAAAAAHNxAH4AIwB0AARtYWludXEAfgAmAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4AHEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+ADR0AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgA0c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4AHHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgBRdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+ABxMAAN0cGVxAH4APXhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AKXQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4ARVsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4ANHNxAH4ARHQABUFycmF5cQB+AEp1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4ARHQABlN0cmluZ3NxAH4ASHNxAH4AS3VxAH4ATgAAAANzcQB+AFB0AARqYXZhc3EAfgBQdAAEbGFuZ3EAfgBVcHNxAH4ALgF1cQB+ABAAAAAAcHNxAH4ALgF1cQB+AGkAAAACc3EAfgBEdAAGT2JqZWN0cQB+AG1zcQB+AER0AANBbnlxAH4ASnBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVPF2QzcdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAcTAAPc291cmNlRGlyZWN0b3J5cQB+ABx4cHQALy9ob21lL2Nsb3VkZXJhL0luZm9SZXRyaWV2YWwvRmlyc3RNTFByb2plY3QvYmludAAvL2hvbWUvY2xvdWRlcmEvSW5mb1JldHJpZXZhbC9GaXJzdE1MUHJvamVjdC9zcmN1cgACW0Ks8xf4BghU4AIAAHhwAAAAFJ3F3fvVmFtOCKSXliVaU4aN/S3K
-/home/cloudera/InfoRetrieval/FirstMLProject/src/webpage.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHA3Op5WAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAHd2VicGFnZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4ALgFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AFUwACWluaGVyaXRlZHEAfgAVTAAHcGFyZW50c3EAfgAVeHEAfgA1c3EAfgAuAXVxAH4AEAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AFnEAfgAgdXEAfgAhAAAAAHNxAH4AIwB0AARtYWludXEAfgAmAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4AHEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+ADR0AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgA0c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4AHHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgBRdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+ABxMAAN0cGVxAH4APXhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AKXQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4ARVsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4ANHNxAH4ARHQABUFycmF5cQB+AEp1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4ARHQABlN0cmluZ3NxAH4ASHNxAH4AS3VxAH4ATgAAAANzcQB+AFB0AARqYXZhc3EAfgBQdAAEbGFuZ3EAfgBVcHNxAH4ALgF1cQB+ABAAAAAAcHNxAH4ALgF1cQB+AGkAAAACc3EAfgBEdAAGT2JqZWN0cQB+AG1zcQB+AER0AANBbnlxAH4ASnBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVPGEE1FdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAcTAAPc291cmNlRGlyZWN0b3J5cQB+ABx4cHQALy9ob21lL2Nsb3VkZXJhL0luZm9SZXRyaWV2YWwvRmlyc3RNTFByb2plY3QvYmludAAvL2hvbWUvY2xvdWRlcmEvSW5mb1JldHJpZXZhbC9GaXJzdE1MUHJvamVjdC9zcmN1cgACW0Ks8xf4BghU4AIAAHhwAAAAFHgQO3cWYPsnpimZop05SuYm44QL
-/home/cloudera/InfoRetrieval/FirstMLProject/src/word2vec.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAA0nYSAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAId29yZDJ2ZWN1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AC4Bc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+ABVMAAlpbmhlcml0ZWRxAH4AFUwAB3BhcmVudHNxAH4AFXhxAH4ANXNxAH4ALgF1cQB+ABAAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+ABZxAH4AIHVxAH4AIQAAAABzcQB+ACMAdAAEbWFpbnVxAH4AJgAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+ABxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgA0dAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4ANHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+ABx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AUXVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgAcTAADdHBlcQB+AD14cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+ACl0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AEVbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+ADRzcQB+AER0AAVBcnJheXEAfgBKdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AER0AAZTdHJpbmdzcQB+AEhzcQB+AEt1cQB+AE4AAAADc3EAfgBQdAAEamF2YXNxAH4AUHQABGxhbmdxAH4AVXBzcQB+AC4BdXEAfgAQAAAAAHBzcQB+AC4BdXEAfgBpAAAAAnNxAH4ARHQABk9iamVjdHEAfgBtc3EAfgBEdAADQW55cQB+AEpwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFTzaTMhnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4AHEwAD3NvdXJjZURpcmVjdG9yeXEAfgAceHB0AC8vaG9tZS9jbG91ZGVyYS9JbmZvUmV0cmlldmFsL0ZpcnN0TUxQcm9qZWN0L2JpbnQALy9ob21lL2Nsb3VkZXJhL0luZm9SZXRyaWV2YWwvRmlyc3RNTFByb2plY3Qvc3JjdXIAAltCrPMX+AYIVOACAAB4cAAAABQn8pZzV35rbZItA9HxAVbbwhfBZg==
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/DirectClustering.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAf5AUmAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAQRGlyZWN0Q2x1c3RlcmluZ3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AC94cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AC4AcHNxAH4AM3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgAVTAAJaW5oZXJpdGVkcQB+ABVMAAdwYXJlbnRzcQB+ABV4cQB+ADdzcQB+AC4AcHNxAH4AM3VxAH4AEAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AFnEAfgAgdXEAfgAhAAAAAHNxAH4AIwB0AARtYWludXEAfgAmAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4AHEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+ADZ0AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgA2c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4AHHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgBVdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+ABxMAAN0cGVxAH4AQXhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AKXQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4ASVsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4ANnNxAH4ASHQABUFycmF5cQB+AE51cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4ASHQABlN0cmluZ3NxAH4ATHNxAH4AT3VxAH4AUgAAAANzcQB+AFR0AARqYXZhc3EAfgBUdAAEbGFuZ3EAfgBZc3EAfgAuAHBzcQB+ADN1cQB+ABAAAAAAc3EAfgAuAHBzcQB+ADN1cQB+AG0AAAACc3EAfgBIdAAGT2JqZWN0cQB+AHFzcQB+AEh0AANBbnlxAH4ATnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFUWlBxH3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4AHEwAD3NvdXJjZURpcmVjdG9yeXEAfgAceHB0AD0vaG9tZS9jbG91ZGVyYS9JbmZvUmV0cmlldmFsL0Nsb25lL0NsdXN0ZXJpbmdfVXNpbmdfU3BhcmsvYmludAA9L2hvbWUvY2xvdWRlcmEvSW5mb1JldHJpZXZhbC9DbG9uZS9DbHVzdGVyaW5nX1VzaW5nX1NwYXJrL3NyY3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUPUcK+WHMr8btEBYRykhKIAURT7c=
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/clustering.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDqy5L8AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAKY2x1c3RlcmluZ3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AC94cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AC4AcHNxAH4AM3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgAVTAAJaW5oZXJpdGVkcQB+ABVMAAdwYXJlbnRzcQB+ABV4cQB+ADdzcQB+AC4AcHNxAH4AM3VxAH4AEAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AFnEAfgAgdXEAfgAhAAAAAHNxAH4AIwB0AARtYWludXEAfgAmAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4AHEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+ADZ0AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgA2c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4AHHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgBVdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+ABxMAAN0cGVxAH4AQXhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AKXQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4ASVsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4ANnNxAH4ASHQABUFycmF5cQB+AE51cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4ASHQABlN0cmluZ3NxAH4ATHNxAH4AT3VxAH4AUgAAAANzcQB+AFR0AARqYXZhc3EAfgBUdAAEbGFuZ3EAfgBZc3EAfgAuAHBzcQB+ADN1cQB+ABAAAAAAc3EAfgAuAHBzcQB+ADN1cQB+AG0AAAACc3EAfgBIdAAGT2JqZWN0cQB+AHFzcQB+AEh0AANBbnlxAH4ATnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFUWlBxH3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4AHEwAD3NvdXJjZURpcmVjdG9yeXEAfgAceHB0AD0vaG9tZS9jbG91ZGVyYS9JbmZvUmV0cmlldmFsL0Nsb25lL0NsdXN0ZXJpbmdfVXNpbmdfU3BhcmsvYmludAA9L2hvbWUvY2xvdWRlcmEvSW5mb1JldHJpZXZhbC9DbG9uZS9DbHVzdGVyaW5nX1VzaW5nX1NwYXJrL3NyY3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUncXd+9WYW04IpJeWJVpTho39Lco=
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/webpage.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHA3Op5WAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAHd2VicGFnZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AC94cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AC4AcHNxAH4AM3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgAVTAAJaW5oZXJpdGVkcQB+ABVMAAdwYXJlbnRzcQB+ABV4cQB+ADdzcQB+AC4AcHNxAH4AM3VxAH4AEAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AFnEAfgAgdXEAfgAhAAAAAHNxAH4AIwB0AARtYWludXEAfgAmAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4AHEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+ADZ0AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgA2c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4AHHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgBVdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+ABxMAAN0cGVxAH4AQXhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AKXQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4ASVsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4ANnNxAH4ASHQABUFycmF5cQB+AE51cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4ASHQABlN0cmluZ3NxAH4ATHNxAH4AT3VxAH4AUgAAAANzcQB+AFR0AARqYXZhc3EAfgBUdAAEbGFuZ3EAfgBZc3EAfgAuAHBzcQB+ADN1cQB+ABAAAAAAc3EAfgAuAHBzcQB+ADN1cQB+AG0AAAACc3EAfgBIdAAGT2JqZWN0cQB+AHFzcQB+AEh0AANBbnlxAH4ATnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFUWlBxH3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4AHEwAD3NvdXJjZURpcmVjdG9yeXEAfgAceHB0AD0vaG9tZS9jbG91ZGVyYS9JbmZvUmV0cmlldmFsL0Nsb25lL0NsdXN0ZXJpbmdfVXNpbmdfU3BhcmsvYmludAA9L2hvbWUvY2xvdWRlcmEvSW5mb1JldHJpZXZhbC9DbG9uZS9DbHVzdGVyaW5nX1VzaW5nX1NwYXJrL3NyY3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUeBA7dxZg+yemKZminTlK5ibjhAs=
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/word2vec.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAk997wAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAId29yZDJ2ZWN1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AC4Bc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+ABVMAAlpbmhlcml0ZWRxAH4AFUwAB3BhcmVudHNxAH4AFXhxAH4ANXNxAH4ALgF1cQB+ABAAAAAAcHNxAH4ALgF1cQB+ABAAAAAAcHNxAH4ALgF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4AHEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+ADR0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+ADRzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAceHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AE10AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AE5zcQB+AEF0AANBbnlzcQB+AEVzcQB+AEh1cQB+AEsAAAACc3EAfgBNdAAFc2NhbGFxAH4AVHBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVRdY2X/dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAcTAAPc291cmNlRGlyZWN0b3J5cQB+ABx4cHQAPS9ob21lL2Nsb3VkZXJhL0luZm9SZXRyaWV2YWwvQ2xvbmUvQ2x1c3RlcmluZ19Vc2luZ19TcGFyay9iaW50AD0vaG9tZS9jbG91ZGVyYS9JbmZvUmV0cmlldmFsL0Nsb25lL0NsdXN0ZXJpbmdfVXNpbmdfU3Bhcmsvc3JjdXIAAltCrPMX+AYIVOACAAB4cAAAABT0isiCdxF48QeOBMAz/HKMf1dAhg==
 external apis:
 0 items
 source infos:
 4 items
-/home/cloudera/InfoRetrieval/FirstMLProject/src/DirectClustering.scala -> 
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/DirectClustering.scala -> 
 AAAAAAAAAAA=
-/home/cloudera/InfoRetrieval/FirstMLProject/src/clustering.scala -> 
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/clustering.scala -> 
 AAAAAAAAAAA=
-/home/cloudera/InfoRetrieval/FirstMLProject/src/webpage.scala -> 
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/webpage.scala -> 
 AAAAAAAAAAA=
-/home/cloudera/InfoRetrieval/FirstMLProject/src/word2vec.scala -> 
+/home/cloudera/InfoRetrieval/Clone/Clustering_Using_Spark/src/word2vec.scala -> 
 AAAAAAAAAAA=
 compilations:
-112 items
+118 items
 000 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUytef5d1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALy9ob21lL2Nsb3VkZXJhL0luZm9SZXRyaWV2YWwvRmlyc3RNTFByb2plY3QvYmludAAvL2hvbWUvY2xvdWRlcmEvSW5mb1JldHJpZXZhbC9GaXJzdE1MUHJvamVjdC9zcmM=
 001 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUytnuBd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALy9ob21lL2Nsb3VkZXJhL0luZm9SZXRyaWV2YWwvRmlyc3RNTFByb2plY3QvYmludAAvL2hvbWUvY2xvdWRlcmEvSW5mb1JldHJpZXZhbC9GaXJzdE1MUHJvamVjdC9zcmM=
 002 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUyttimV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALy9ob21lL2Nsb3VkZXJhL0luZm9SZXRyaWV2YWwvRmlyc3RNTFByb2plY3QvYmludAAvL2hvbWUvY2xvdWRlcmEvSW5mb1JldHJpZXZhbC9GaXJzdE1MUHJvamVjdC9zcmM=
@@ -386,3 +386,9 @@ compilations:
 109 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABU81npop1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALy9ob21lL2Nsb3VkZXJhL0luZm9SZXRyaWV2YWwvRmlyc3RNTFByb2plY3QvYmludAAvL2hvbWUvY2xvdWRlcmEvSW5mb1JldHJpZXZhbC9GaXJzdE1MUHJvamVjdC9zcmM=
 110 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABU81pMbl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALy9ob21lL2Nsb3VkZXJhL0luZm9SZXRyaWV2YWwvRmlyc3RNTFByb2plY3QvYmludAAvL2hvbWUvY2xvdWRlcmEvSW5mb1JldHJpZXZhbC9GaXJzdE1MUHJvamVjdC9zcmM=
 111 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABU82kzIZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALy9ob21lL2Nsb3VkZXJhL0luZm9SZXRyaWV2YWwvRmlyc3RNTFByb2plY3QvYmludAAvL2hvbWUvY2xvdWRlcmEvSW5mb1JldHJpZXZhbC9GaXJzdE1MUHJvamVjdC9zcmM=
+112 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVFpQcR91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPS9ob21lL2Nsb3VkZXJhL0luZm9SZXRyaWV2YWwvQ2xvbmUvQ2x1c3RlcmluZ19Vc2luZ19TcGFyay9iaW50AD0vaG9tZS9jbG91ZGVyYS9JbmZvUmV0cmlldmFsL0Nsb25lL0NsdXN0ZXJpbmdfVXNpbmdfU3Bhcmsvc3Jj
+113 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVFpSorN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPS9ob21lL2Nsb3VkZXJhL0luZm9SZXRyaWV2YWwvQ2xvbmUvQ2x1c3RlcmluZ19Vc2luZ19TcGFyay9iaW50AD0vaG9tZS9jbG91ZGVyYS9JbmZvUmV0cmlldmFsL0Nsb25lL0NsdXN0ZXJpbmdfVXNpbmdfU3Bhcmsvc3Jj
+114 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVFpXL5J1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPS9ob21lL2Nsb3VkZXJhL0luZm9SZXRyaWV2YWwvQ2xvbmUvQ2x1c3RlcmluZ19Vc2luZ19TcGFyay9iaW50AD0vaG9tZS9jbG91ZGVyYS9JbmZvUmV0cmlldmFsL0Nsb25lL0NsdXN0ZXJpbmdfVXNpbmdfU3Bhcmsvc3Jj
+115 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVFqUsHF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPS9ob21lL2Nsb3VkZXJhL0luZm9SZXRyaWV2YWwvQ2xvbmUvQ2x1c3RlcmluZ19Vc2luZ19TcGFyay9iaW50AD0vaG9tZS9jbG91ZGVyYS9JbmZvUmV0cmlldmFsL0Nsb25lL0NsdXN0ZXJpbmdfVXNpbmdfU3Bhcmsvc3Jj
+116 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVFqVpdh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPS9ob21lL2Nsb3VkZXJhL0luZm9SZXRyaWV2YWwvQ2xvbmUvQ2x1c3RlcmluZ19Vc2luZ19TcGFyay9iaW50AD0vaG9tZS9jbG91ZGVyYS9JbmZvUmV0cmlldmFsL0Nsb25lL0NsdXN0ZXJpbmdfVXNpbmdfU3Bhcmsvc3Jj
+117 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVF1jZf91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPS9ob21lL2Nsb3VkZXJhL0luZm9SZXRyaWV2YWwvQ2xvbmUvQ2x1c3RlcmluZ19Vc2luZ19TcGFyay9iaW50AD0vaG9tZS9jbG91ZGVyYS9JbmZvUmV0cmlldmFsL0Nsb25lL0NsdXN0ZXJpbmdfVXNpbmdfU3Bhcmsvc3Jj
