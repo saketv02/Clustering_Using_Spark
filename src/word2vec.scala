@@ -65,7 +65,7 @@ object word2vec {
    val clusters = KMeans.train(data1,numClusters,10)
    val predictions=	clusters.predict(data1)
    val clustercount= predictions.map(s=>(s,1)).reduceByKey(_+_)
-   val result= keys.zip(values).zip(predictions)
+   val result= keys.zip(predictions)
    val wsse = clusters.computeCost(data1)
    
    
