@@ -47,7 +47,7 @@ object word2vec {
 		   }))
 		   
   val convertest = outtest.map(m=>m.map(x=>(x.toArray)))
-  val reducetest = convertest.map(x=>x.filter(_.length!=0).reduce((a,b)=>a.zip(b).map(t=>t._1+t._2)))
+  val reducetest = convertest.filter(!_.isEmpty).map(x=>x.reduce((a,b)=>a.zip(b).map(t=>t._1+t._2)))
   
   val filtertest = reducetest.map(x=>x.map(m=>(m,x.length)).map(m=>m._1/m._2))
   
