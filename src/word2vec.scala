@@ -47,8 +47,17 @@ object word2vec {
 		   }))
 		   
   val convertest = outtest.map(m=>m.map(x=>(x.toArray)))
-  val reducetest = convertest.filter(!_.isEmpty).map(x=>x.reduce((a,b)=>a.zip(b).map(t=>t._1+t._2)))
   
+  val withkey = keys.zip(convertest)
+  
+  val filterkey = withkey.filter(x=>!x._2.isEmpty)
+  
+  val keysfinal= filterkey.map(x=>x._1)
+  val valfinal= filterkey.map(x=>x._2)
+  
+  val reducetest = valfinal.map(x=>x.reduce((a,b)=>a.zip(b).map(t=>t._1+t._2)))
+  
+ 
   val filtertest = reducetest.map(x=>x.map(m=>(m,x.length)).map(m=>m._1/m._2))
   
   val test = filtertest.map(x=>new DenseVector(x).asInstanceOf[Vector])
