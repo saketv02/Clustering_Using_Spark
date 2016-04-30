@@ -50,7 +50,7 @@ object word2vec {
   
   val withkey = keys.zip(convertest)
   
-  val filterkey = withkey.filter(x=>!x._2.isEmpty)
+  val filterkey = withkey.filter(!_._2.isEmpty)
   
   val keysfinal= filterkey.map(x=>x._1)
   val valfinal= filterkey.map(x=>x._2)
