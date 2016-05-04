@@ -32,7 +32,7 @@ object webpage {
 	  
 /**********************Preprocessing******************************************************/
 		val raw = sc.textFile("input/webpages/z" + collection +"-clean" )
-		val webpages = raw.filter(!_.isEmpty()).map(line=>line.split("\t",-1)).filter(_.length>7).map(line=>(line(0),line(7).split(" ").filter(_.nonEmpty)))
+		val webpages = raw.filter(!_.isEmpty()).map(line=>line.split("\t",-1)).filter(_.length>7).map(line=>(line(1),line(7).split(" ").filter(_.nonEmpty)))
 		val corpus =  raw.filter(!_.isEmpty()).map(line=>line.split("\t",-1)).filter(_.length>7).map(line=>line(7).split(" ").toSeq)    
 		val values:RDD[Seq[String]] = webpages.map(s=>s._2.filter(_.nonEmpty))
 		val keys = webpages.map(s=>s._1)
