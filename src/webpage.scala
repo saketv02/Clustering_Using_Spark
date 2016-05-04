@@ -73,7 +73,7 @@ object webpage {
 		val wsse = clusters.computeCost(data1)
    
 /***************************Generate results and save data**********************/
-		result.saveAsTextFile("output/webpages/"+collection)
+		result.saveAsTextFile("output/webpages/"+collection+"byURL")
 		println(result.take(4).mkString(" "))
 		println(clustercount.take(numClusters).mkString(" "))
 		println(wsse.toString)
